@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Basefold icon">
+  <defs>
+    <linearGradient id="bf-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f5bd8" />
+      <stop offset="100%" stop-color="#12a9a0" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#bf-grad)" />
+  <path d="M21 18h14c8.3 0 15 6.7 15 15s-6.7 15-15 15H21z" fill="#ffffff" opacity="0.96" />
+  <path d="M26 25h8.6c4.4 0 8 3.6 8 8s-3.6 8-8 8H26z" fill="#0f5bd8" opacity="0.9" />
+</svg>
